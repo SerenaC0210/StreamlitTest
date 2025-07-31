@@ -1,5 +1,3 @@
-!pip install tensorflow==2.13.0
-
 import streamlit as st
 import numpy as np
 import pandas as pd
